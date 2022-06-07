@@ -1,5 +1,5 @@
-# BudgetFullStack
-Stay on Track with your money
+# AvocadoOrganics
+Make your shopping list through this app before you go to The Avocado Organics Grocery Store
 
  
 **Link toProject:** 
@@ -21,4 +21,4 @@ JavaScript, Node.js, and MongoDB
 ## Usage
 
 1. run `node server.js`
-2. Navigate to `localhost:8080`
+2. Navigate to `localhost:9080`
