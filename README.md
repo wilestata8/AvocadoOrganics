@@ -2,7 +2,7 @@
 Make your shopping list through this app before you go to The Avocado Organics Grocery Store
 
  
-**Link toProject:** 
+**Link toProject:** https://avocadoorganic.herokuapp.com/
 
 Avocadojpg.jpg
 
